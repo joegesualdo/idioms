@@ -20,7 +20,3 @@ function getIdioms(callback){
 }
 
 module.exports = Idioms
-
-Idioms.getIdioms(function(idioms){
-  console.log(idioms)
-})
